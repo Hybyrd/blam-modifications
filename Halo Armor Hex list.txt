@@ -1,0 +1,351 @@
+Halo: Reach hex list
+
+List by, HybyrdZero everything
+i've found, offsets are incorrect.
+
+==================================
+Location:
+Offset (h)
+
+Current First Letter:
+0000ABE0, 08, 09 
+
+Current Second Letter:
+0000ABE0, 0A, 0B
+
+Current Third Letter:
+0000ABE0, 0C, 0D
+
+Current Fourth Letter:
+0000ABE0, 0E, 0F
+
+Previous First Letter:
+0000ABF0, 02, 03 
+
+Previous Second Letter:
+0000ABF0, 04, 05
+
+Previous Third Letter:
+0000ABF0, 06, 07
+
+Previous Fourth Letter:
+0000ABF0, 08, 09
+
+Service Tag Hex:
+*Any other symbols work just listed the most desired ones.
+30 00 	0
+31 00 	1
+32 00 	2
+33 00 	3
+34 00 	4
+35 00 	5
+36 00 	6
+37 00 	7
+38 00 	8
+39 00 	9
+41 00 	A
+42 00 	B
+43 00 	C
+44 00 	D
+45 00 	E
+46 00 	F
+47 00 	G
+48 00 	H
+49 00 	I
+4A 00 	J
+4B 00 	K
+4C 00 	L
+4D 00 	M
+4E 00 	N
+4F 00 	O
+50 00 	P
+51 00 	Q
+52 00 	R
+53 00 	S
+54 00 	T
+55 00 	U
+56 00 	V
+57 00 	W
+58 00 	X
+59 00 	Y
+5A 00 	Z
+00 A6 	Bungie Logo
+E0 06 	Diamond
+E0 08 	File Download
+E0 33 	Caution
+E0 60 	Star (Yellow)
+E0 63 	Skull (Gray)
+E0 64 	Skull
+E0 67 	Triangle Bullet (Black)
+E0 68 	Universal "No" Sign (White)
+E0 79 	Gamerscore
+E0 80 	KotH Crown (Orange)
+E0 81 	Thumbs Up
+E0 82 	Checkbox Checked (White)
+E0 83 	D-Pad Up and Down
+E0 84 	Checkbox Checked (Gray)
+E0 85 	Cloud Skull
+E0 86 	Famine Skull
+E0 87 	Mythic Skull
+E0 88 	Thunderstorm Skull
+E0 89 	Tilt Skull
+E0 90 	Empty Circle
+E0 91 	IWHYBD Skull
+E0 92 	Blind Skull
+E0 93 	Birthday Skull
+E0 94 	Cowbell Skull
+E0 95 	Iron Skull
+E0 96 	Black Eye Skull
+E0 97 	Tough Luck Skull
+E0 98 	Catch Skull
+E1 00 	A Button
+E1 01 	B Button
+E1 02 	X Button
+E1 03 	Y Button
+E1 04 	Left Button
+E1 05 	Right Button
+E1 06 	Left Trigger
+E1 07 	Right Trigger
+E1 08 	Up Button
+E1 09 	Down Button
+E1 0A 	Left Button
+
+Name:			Hex:
+==================================
+Helmets:
+Mark V [B]
+	Base
+	UA
+	UA/HUL
+CQC
+	Base
+	CBRN
+	UA/HUL
+ODST
+	Base
+	UA/CNM
+	CBRN/HUL
+Hazop
+	Base
+	CBRN/HUL
+	CNM-I
+EOD
+	Base
+	CNM
+	UA/HUL
+Operator
+	Base
+	UA/HUL
+	CNM
+Grenadier
+	Base
+	UA
+	UA/FC
+Air Assault
+	Base
+	UA/CNM
+	FC-I
+Scout
+	Base
+	HU/RS
+	CBRN/CNM
+EVA
+	Base
+	CNM
+	UA/HUL[3]
+JFO
+	Base
+	HUL-I
+	UA
+Commando
+	Base
+	CBRN/CBN
+	UA/FC-I[2]
+EVA [C]
+	Base
+	CNM
+	UA/HUL[3]
+MJOLNIR Mk. V
+	Base
+	CNM
+	UA
+Pilot
+	Base
+	HUL[3]
+	UA/HUL[3]
+	Haunted
+Recon
+	Base
+	HUL
+MJOLNIR Mk. VI
+	Base
+	FC-I[2]
+	UA/HUL-I
+Gungnir
+	Base
+	HU/RS
+	CBRN
+Security
+	Base
+	UA/HUL
+	CBRN/CNM
+Military Police
+	Base
+	CBRN/HU/RS
+	HU/RS/CNM
+CQB
+	Base
+	HU/RS/CNM	
+ 	UA/HUL
+==================================
+Shoulders:
+Default
+FJ/PARA
+HAZOP
+JFO
+RECON
+UA/Multi-Threat
+Jump Jet
+EVA
+Gungnir
+ODST
+UA/Base Security
+CQC
+Operator
+Commado
+Grenadier
+Sniper
+MJOLNIR Mk. V
+Security
+==================================
+Chest:
+HP/Halo
+UA/CounterAssault
+Tactical/LRP
+UA/ODST
+Tactical/Recon
+Collar/Grenadier
+Tactical/Patrol
+Collar/Breacher
+Assault/Sapper
+Assault/Commando
+HP/Parafoil
+Collar/Grenadier [UA]
+UA/Base Security [W]
+Collar/Breacher [R]
+HP/Parafoil [R]
+Assault/Sapper [R]
+==================================
+Wrist:
+Default
+UA/Buckler
+UA/Bracer
+Tactical/Tacpad
+Tactical/UGPS
+Assault/Breacher
+==================================
+Utility:
+Default
+UA/Chobham
+Tactical/Hard Case
+UA/NxRA
+Tactical/Trauma Kit
+Tactical/Soft Case
+==================================
+Visor Color:
+Defualt			00
+Silver			01
+Blue			02
+Black			03
+Gold			04
+==================================
+Knee Guards:
+Defualt			00, 00
+FJ/PARA			01, 01
+GUNGNIR			02, 02
+Grenadier		03, 03
+==================================
+Location:
+Offset (h)
+
+Armor Effect:
+0000ABE0, 03, 04 (ABE3 and ABE4)
+
+None			00, 00
+Legendary		01, 01
+Eternal			02, 02
+Birthday Party		03, 03
+Heart Attack		04, 04
+Pestilence		05, 05
+Inclement Weather	06, 06
+==================================
+Location:
+Offset (h)
+
+Firefight Voice:
+0000ABE0, 05 (ABE5)
+
+Noble Six		00
+Jorge			0A
+Jun			08
+Emile			09
+Kat			07
+Dot			0B
+Carter			06
+Gysgt Stacker		05
+Buck			03
+SGT Johnson		04
+Cortana			01
+John			02
+==================================
+Location:
+Offset (h)
+
+Primary Color:
+0000ABC0, 06 (ABC6)
+
+Secondary Color:
+0000ABC0, 09 (ABCA)
+
+Emblem Primary Color:
+0000ABD0, 06 (ABD6)
+
+Emblem Secondary Color:
+0000ABD0, 07 (ABD7)
+
+Emblem Background Color:
+0000ABD0, 08 (ABD8)
+
+Colors:
+Steel (Black)		00
+Silver			01
+White			02
+Brown			03
+Tan			04
+Khaki			05
+Sage			06
+Olive			07
+Drab			08
+Forest			09
+Green			0A
+Sea Foam		0B
+Teal			0C
+Aqua			0D
+Cyan			0E
+Blue			0F
+Cobalt			10
+Ice			11
+Violet			12
+Orchid			13
+Lavender		14
+Maroon			15
+Brick			16
+Rose			17
+Rust			18
+Coral			19
+Peach			1A
+Gold			1B
+Yellow			1C
+Pale			1D
+Ultra White		1E
+==================================
