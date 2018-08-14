@@ -4,33 +4,6 @@ List by, HybyrdZero everything
 i've found, offsets are incorrect.
 
 ==================================
-Location:
-Offset (h)
-
-Current First Letter:
-0000ABE0, 08, 09 
-
-Current Second Letter:
-0000ABE0, 0A, 0B
-
-Current Third Letter:
-0000ABE0, 0C, 0D
-
-Current Fourth Letter:
-0000ABE0, 0E, 0F
-
-Previous First Letter:
-0000ABF0, 02, 03 
-
-Previous Second Letter:
-0000ABF0, 04, 05
-
-Previous Third Letter:
-0000ABF0, 06, 07
-
-Previous Fourth Letter:
-0000ABF0, 08, 09
-
 Service Tag Hex:
 *Any other symbols work just listed the most desired ones.
 30 00 	0
@@ -113,136 +86,50 @@ E1 0A 	Left Button
 Name:			Hex:
 ==================================
 Helmets:
-Mark V [B]
-	Base
-	UA
-	UA/HUL
-CQC
-	Base
-	CBRN
-	UA/HUL
-ODST
-	Base
-	UA/CNM
-	CBRN/HUL
-Hazop
-	Base
-	CBRN/HUL
-	CNM-I
-EOD
-	Base
-	CNM
-	UA/HUL
-Operator
-	Base
-	UA/HUL
-	CNM
-Grenadier
-	Base
-	UA
-	UA/FC
-Air Assault
-	Base
-	UA/CNM
-	FC-I
-Scout
-	Base
-	HU/RS
-	CBRN/CNM
-EVA
-	Base
-	CNM
-	UA/HUL[3]
-JFO
-	Base
-	HUL-I
-	UA
-Commando
-	Base
-	CBRN/CBN
-	UA/FC-I[2]
-EVA [C]
-	Base
-	CNM
-	UA/HUL[3]
-MJOLNIR Mk. V
-	Base
-	CNM
-	UA
-Pilot
-	Base
-	HUL[3]
-	UA/HUL[3]
-	Haunted
-Recon
-	Base
-	HUL
-MJOLNIR Mk. VI
-	Base
-	FC-I[2]
-	UA/HUL-I
-Gungnir
-	Base
-	HU/RS
-	CBRN
-Security
-	Base
-	UA/HUL
-	CBRN/CNM
-Military Police
-	Base
-	CBRN/HU/RS
-	HU/RS/CNM
-CQB
-	Base
-	HU/RS/CNM	
- 	UA/HUL
+
 ==================================
 Shoulders:
-Default
-FJ/PARA
-HAZOP
-JFO
-RECON
-UA/Multi-Threat
-Jump Jet
-EVA
-Gungnir
-ODST
-UA/Base Security
-CQC
-Operator
-Commado
-Grenadier
-Sniper
-MJOLNIR Mk. V
-Security
+FJ/para			01
+Hazop			02
+JFK			03
+Recon			04
+UA/Multi-Threat		05
+JumpJet			06
+EVA			07
+Gungnir			08
+ODST			11
+UA/Base Security	09
+CGC			0A
+Operator		0B
+Commando		0C
+Grenadier		0D
+Sniper			0E
+Mjonir MK V		0f
+Security		10
 ==================================
-Chest:
-HP/Halo
-UA/CounterAssault
-Tactical/LRP
-UA/ODST
-Tactical/Recon
-Collar/Grenadier
-Tactical/Patrol
-Collar/Breacher
-Assault/Sapper
-Assault/Commando
-HP/Parafoil
-Collar/Grenadier [UA]
-UA/Base Security [W]
-Collar/Breacher [R]
-HP/Parafoil [R]
-Assault/Sapper [R]
+Chests:
+HP/Halo			03
+UA/Counterassult	04
+Tatical/LRP		05
+UA/ODST			13
+Tatical/Recon		06
+Collar/Grenadier	07
+Tatical/Patrol		08
+Collar/Breachers	09
+Assault/Sapper		0A
+Assault/Commando	0B
+HP/Parafoil		0C
+Collar/grenadier [UA]	0D
+Collar/Breacher [R]	10
+HP/Parafoil [R]		11
+Assult/Sapper [R]	12
 ==================================
 Wrist:
-Default
-UA/Buckler
-UA/Bracer
-Tactical/Tacpad
-Tactical/UGPS
-Assault/Breacher
+UA/Buckler		01
+UA/Bracer		03
+Tactical/Tacpad		05
+Tactical/UGPS		04
+Assult/Breacher		02
 ==================================
 Utility:
 Default
@@ -298,24 +185,6 @@ SGT Johnson		04
 Cortana			01
 John			02
 ==================================
-Location:
-Offset (h)
-
-Primary Color:
-0000ABC0, 06 (ABC6)
-
-Secondary Color:
-0000ABC0, 09 (ABCA)
-
-Emblem Primary Color:
-0000ABD0, 06 (ABD6)
-
-Emblem Secondary Color:
-0000ABD0, 07 (ABD7)
-
-Emblem Background Color:
-0000ABD0, 08 (ABD8)
-
 Colors:
 Steel (Black)		00
 Silver			01
