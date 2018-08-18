@@ -1,8 +1,4 @@
 Halo: Reach hex list
-
-List by, HybyrdZero everything
-i've found, offsets are incorrect.
-
 ==================================
 Service Tag Hex:
 *Any other symbols work just listed the most desired ones.
